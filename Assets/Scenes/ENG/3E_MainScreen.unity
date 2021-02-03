@@ -750,7 +750,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -297, y: -320}
+  m_AnchoredPosition: {x: -201, y: -268}
   m_SizeDelta: {x: 874.6, y: 132.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &551806459
@@ -771,9 +771,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'GOOD MORNING, ANNA!
-
-'
+  m_text: Select one of the options bellow
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b9303a0bd51ff42899f79b802d96a698, type: 2}
   m_sharedMaterial: {fileID: 6617398476414395830, guid: b9303a0bd51ff42899f79b802d96a698,
@@ -819,7 +817,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 18
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -843,12 +841,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 96.05087, w: 0}
   m_textInfo:
     textComponent: {fileID: 551806459}
-    characterCount: 20
+    characterCount: 32
     spriteCount: 0
-    spaceCount: 3
-    wordCount: 3
+    spaceCount: 5
+    wordCount: 6
     linkCount: 0
-    lineCount: 1
+    lineCount: 2
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -1775,7 +1773,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -34, y: 207}
+  m_AnchoredPosition: {x: -107, y: 229.00006}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1981074888
@@ -1917,7 +1915,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -320, y: 207.99992}
+  m_AnchoredPosition: {x: -413, y: 210}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2064862757
@@ -2000,7 +1998,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+  m_Color: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:

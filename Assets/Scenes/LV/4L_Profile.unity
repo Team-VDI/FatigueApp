@@ -3177,7 +3177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ID
+  m_text: "ID SIST\u0112M\u0100"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1681a43a95f9c42feb179fdf3b8c03af, type: 2}
   m_sharedMaterial: {fileID: 1192625118331463916, guid: 1681a43a95f9c42feb179fdf3b8c03af,
@@ -3247,10 +3247,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0.007910156, z: -26.395264, w: 0}
   m_textInfo:
     textComponent: {fileID: 1850256469}
-    characterCount: 2
+    characterCount: 10
     spriteCount: 0
-    spaceCount: 0
-    wordCount: 1
+    spaceCount: 1
+    wordCount: 2
     linkCount: 0
     lineCount: 1
     pageCount: 1
