@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LV/1L_Intro.unity
+    guid: e3984b436d06e2644a0a8a76b2ccc752
+  - enabled: 1
+    path: Assets/Scenes/LV/2L_LogIn_SignUp.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LV/3L_MainScreen.unity
+    guid: 49698168b75734d44a94e46616f97ad5
+  - enabled: 1
+    path: Assets/Scenes/LV/4L_Profile.unity
+    guid: 36beb9ea36849ba41a4d2282fbbda7f4
+  - enabled: 1
+    path: Assets/Scenes/LV/5L_Aptauja.unity
+    guid: 753d8111561614b4eb447d134b7ed4a1
+  - enabled: 1
+    path: Assets/Scenes/LV/5L_Aptauja2.unity
+    guid: 1c11a93ddb8831049939ca3dbb770205
+  - enabled: 1
+    path: Assets/Scenes/LV/6L_Testu_Izvelne.unity
+    guid: 332a15671ea040742acd99cc96d36478
+  - enabled: 1
+    path: Assets/Scenes/LV/7L_Rezultati.unity
+    guid: d62bd9177579786478044069c3c34640
+  - enabled: 1
+    path: Assets/Scenes/LV/8L_Savienojums.unity
+    guid: 5b7d600b58e8cd247a42da25d0d1d0db
+  - enabled: 1
+    path: Assets/Scenes/LV/9L_Iestatijumi.unity
+    guid: a3af6dd0070372e4db1e0fbcb4cdb7b9
+  - enabled: 1
+    path: Assets/Scenes/LV/10L_Reakcijas_Tests.unity
+    guid: 012aea7cb059fb940b1ae5fb69e44d57
+  - enabled: 1
+    path: Assets/Scenes/LV/11L_Test1.unity
+    guid: 189bf522222cd0749bf6ebb1d2f09cc2
+  - enabled: 1
+    path: Assets/Scenes/LV/12L_Rekomendacijas.unity
+    guid: 2203060d9bb9f3345a66a41bae4640c8
+  - enabled: 1
+    path: Assets/Scenes/ENG/1E_Intro.unity
+    guid: d91f34c6ce7d08a47bd4df987e10cebc
+  - enabled: 1
+    path: Assets/Scenes/ENG/2E_Login.unity
+    guid: a95dcda5d1002d846843162687b5d481
+  - enabled: 1
+    path: Assets/Scenes/ENG/3E_MainScreen.unity
+    guid: 58e08782a61b9774aae89e6076d2dd6c
+  - enabled: 1
+    path: Assets/Scenes/ENG/4E_Profile.unity
+    guid: 7a3912b0dddce324a8ea914bf9491578
+  - enabled: 1
+    path: Assets/Scenes/ENG/5E_Aptauja.unity
+    guid: e79433474fa829b49bc4a5b45dbbce91
+  - enabled: 1
+    path: Assets/Scenes/ENG/5E_Aptauja2.unity
+    guid: f0a8d5e0ffef8e6418048d218835e6b0
+  - enabled: 1
+    path: Assets/Scenes/ENG/6E_Tests.unity
+    guid: 4f5710fdfa4b6524eab05d90c9e68180
+  - enabled: 1
+    path: Assets/Scenes/ENG/7E_Results.unity
+    guid: e7ca98c61285d7646b18aba05f41e3a2
+  - enabled: 1
+    path: Assets/Scenes/ENG/8E_Sensors.unity
+    guid: 2a876cdf9d919664583d64bc1d790948
+  - enabled: 1
+    path: Assets/Scenes/ENG/9E_Settings.unity
+    guid: 150a0d08dc4c570499b3e3776f42a809
+  - enabled: 1
+    path: Assets/Scenes/ENG/10E_ReactionTest.unity
+    guid: c2ea9cdc35056e2418f3238f2ef12376
+  - enabled: 1
+    path: Assets/Scenes/ENG/11E_Test1.unity
+    guid: fb9c3c6051d7d7f4a9db1695045adf50
+  - enabled: 1
+    path: Assets/Scenes/ENG/12E_Rekomendacijas.unity
+    guid: 7b0f17b96dae9124e8aada5e293974cb
+  m_configObjects: {}
